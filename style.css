@@ -8,3 +8,16 @@
   box-shadow: none;
   border: none;
 }
+
+.black-background {
+  background-color: #292929;
+  color: whitesmoke;
+  height: 200px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+.column {
+  color: white;
+  padding-bottom: 10px;
+}
